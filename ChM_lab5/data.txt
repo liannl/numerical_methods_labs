@@ -1,0 +1,4 @@
+#first row: a,b,c,y_c
+#second row: h_min, eps
+1 2 2 2
+0.1 0.000001
